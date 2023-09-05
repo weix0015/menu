@@ -1,0 +1,3 @@
+C:/Users/weiya/Desktop/Desktop/C and C++/Programming/CLion/Menu/cmake-build-debug/CMakeFiles/Menu.dir
+C:/Users/weiya/Desktop/Desktop/C and C++/Programming/CLion/Menu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/weiya/Desktop/Desktop/C and C++/Programming/CLion/Menu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# ninja log v5
+0	91	7156393678387258	CMakeFiles/Menu.dir/src/main.c.obj	b64d6bb3a2d4d3d
+6	109	7156393678570382	CMakeFiles/Menu.dir/src/menu.c.obj	a69f7e0c913817c1
+110	259	7156393680019847	Menu.exe	8a5b853bdc984c0c
+8	84	7156394790371794	CMakeFiles/Menu.dir/src/main.c.obj	b64d6bb3a2d4d3d
+2	96	7156394790492768	CMakeFiles/Menu.dir/src/menu.c.obj	a69f7e0c913817c1
+96	227	7156394791728032	Menu.exe	8a5b853bdc984c0c
+3	92	7156396846996670	CMakeFiles/Menu.dir/src/menu.c.obj	a69f7e0c913817c1
+92	218	7156396848190333	Menu.exe	8a5b853bdc984c0c
+2	92	7156400034424406	CMakeFiles/Menu.dir/src/menu.c.obj	a69f7e0c913817c1
+93	222	7156400035659829	Menu.exe	8a5b853bdc984c0c
+2	87	7156400649092876	CMakeFiles/Menu.dir/src/menu.c.obj	a69f7e0c913817c1
+88	221	7156400650370062	Menu.exe	8a5b853bdc984c0c
